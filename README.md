@@ -1,2 +1,2 @@
 # TestGitHub
-Am gonna learn how to use GitHub
+Am learning how to commit to github
